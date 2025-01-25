@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "197107529392",
+    "project_id": "tiqtop-1d7c5",
+    "storage_bucket": "tiqtop-1d7c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197107529392:android:e06b3ceddd7a41df37ed75",
+        "android_client_info": {
+          "package_name": "com.live.tiqtop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197107529392-5325v3qhtja5rch37vm6667q4fr4sd54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.tiqtop",
+            "certificate_hash": "2753f05bd18a603353779dd9a3aadf144419ec15"
+          }
+        },
+        {
+          "client_id": "197107529392-fi47ro8vq5qng4lfo8hbmcu9vctin7a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.live.tiqtop",
+            "certificate_hash": "6f4041fde829bdb13487f3cb8a3ea437bf5423c5"
+          }
+        },
+        {
+          "client_id": "197107529392-8r88tnhm82ku5u3h771lq7lmgue4d46h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ZJZ930Mao0QOABMmE92zmleBHSNKHP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197107529392-8r88tnhm82ku5u3h771lq7lmgue4d46h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
